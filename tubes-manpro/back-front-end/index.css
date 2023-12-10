@@ -1,0 +1,106 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+#id-navbar {
+    background-color: black;
+}
+
+.logo-navbar {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.navbar-brand {
+    color: #FECB08;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.nav-link :active {
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.nav-link {
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#index-col {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 68vh;
+    margin-top: 30px;
+}
+
+.image-index-right {
+    width: 600px;
+    height: 500px;
+    margin-top: 30px;
+}
+
+.image-index-left {
+    width: 600px;
+    height: 500px;
+    margin-top: 30px;
+}
+
+footer {
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+}
+
+footer a {
+    color: white;
+}
+
+#footer-col {
+    margin-top: 30px;
+}
+
+.footer-image {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+footer h6 {
+    margin-bottom: 15px;
+}
+
+p {
+    margin-bottom: 0px;
+}
+
+a {
+    color: black;
+}
+
+button {
+    margin-top: 30px;
+}
+
+.image-home {
+    width: 100%;
+}

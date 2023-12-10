@@ -1,0 +1,15 @@
+h1 {
+    margin-top: 10px;
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+#update {
+    margin-right: 50px;
+}
+
+#delete {
+    margin-left: 50px;
+}
